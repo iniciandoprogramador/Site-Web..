@@ -3,8 +3,8 @@ Curso de Site-Web.
 
 Iniciando as funções do HTML.
 
-Esse Curso que vamos mostrar para vocês ele pode ser encontrado  na plataforma da "DIo.me "
-Nós vamos criar uma página Web-site, iremos usar as estrutura básica do HTML com as tegs que irá cirar uma web-site.
+Esse Curso que vamos mostrar para vocês onde ele pode ser encontrado  na plataforma da "DIo.me "
+Nós vamos criar uma página Web-site, iremos usar as estrutura básica do HTML com as tags que irá cirar uma web-site.
 As tags nós adquirimos em vídeos aulas.
 Vamos lá!
 As tags que nós utilizamos para fazer uma página são essas funções: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`.
